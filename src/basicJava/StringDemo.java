@@ -13,6 +13,9 @@ public class StringDemo {
 		System.out.println(s1);
 		s1=s1.concat(s2);
 		System.out.println(s1);
+System.out.println(s1);
+System.out.println(s1);
+System.out.println(s1);
 
 
 	}
